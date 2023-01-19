@@ -29,7 +29,7 @@ You can find below the permissions requested by the app and the reasons why they
 
 If you have any inquiries related to data privacy, please contact me through the email address provided above.
 
-Best Regards,
+Best Regards, <br/>
 Anil Yilmaz <br/>
 Amsterdam, The Netherlands
 
