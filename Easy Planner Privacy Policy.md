@@ -6,7 +6,7 @@ This document explains the user data collection and usage policies adopted by Ea
 
 This is an app created by a single developer. You can find the contact information below.
 
-Name: Anil Yilmaz
+Name: Anil Yilmaz <br />
 E-mail: anil.yilmaz.dev@gmail.com
 
 ### User Data
