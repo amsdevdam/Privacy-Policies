@@ -31,4 +31,5 @@ If you have any inquiries related to data privacy, please contact me through the
 
 Best Regards,
 Anil Yilmaz
+Amsterdam, The Netherlands
 
